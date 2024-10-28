@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1a082b6-aa37-4a9b-82a8-dc8c68aa9c2a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vezbanjeAI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_z9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/z1_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/z1_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/z1_19.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2o2QFm7adhn3oqiVIJCc6sAkjHA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.l1_z1.executor": "Run",
+    "Python.l1_z10.executor": "Run",
+    "Python.l1_z11.executor": "Run",
+    "Python.l1_z12.executor": "Run",
+    "Python.l1_z13.executor": "Run",
+    "Python.l1_z14.executor": "Run",
+    "Python.l1_z15.executor": "Run",
+    "Python.l1_z16.executor": "Run",
+    "Python.l1_z2.executor": "Run",
+    "Python.l1_z20.executor": "Run",
+    "Python.l1_z3.executor": "Run",
+    "Python.l1_z4.executor": "Run",
+    "Python.l1_z5.executor": "Run",
+    "Python.l1_z6.executor": "Run",
+    "Python.l1_z7.executor": "Run",
+    "Python.l1_z8.executor": "Run",
+    "Python.l1_z9.executor": "Run",
+    "Python.z1_17.executor": "Run",
+    "Python.z1_18.executor": "Run",
+    "Python.z1_19.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1a082b6-aa37-4a9b-82a8-dc8c68aa9c2a" name="Changes" comment="" />
+      <created>1730065090119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730065090119</updated>
+    </task>
+    <servers />
+  </component>
+</project>
